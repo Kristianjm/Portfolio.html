@@ -1,0 +1,22 @@
+html>
+    <head>
+            <link rel="stylesheet" href="portfolio.css">
+        </head>
+    <body>
+        <div class="maincontainer"> 
+            <!-- <img src="Bitmap.jpg" alt="Space n' Stuff" class="intro"> -->
+            <div class="menucontainer">
+                    <div class="name">
+                        Kristian Jervis-Mercer
+                    </div> 
+                    <div class="work">
+                        Portfolio
+                    </div>
+                    <div class="about">
+                        About Me 
+                    </div>
+
+            </div>
+        </div>
+    </body>
+</html>
